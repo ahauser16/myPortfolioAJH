@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl'
+import { Grid, Cell } from 'react-mdl';
+// import '../../styles/base.css';
 
 class Landing extends Component {
     render() {
@@ -8,9 +9,11 @@ class Landing extends Component {
                 <Grid className='landing-grid'>
                     <Cell col={12} className='avatarBannerContainer'>
                         <img
-                            src="avatar_no_bg.png"
+                            src="profileImg.jpg"
                             alt="avatar"
-                            className="avater-img"
+                            className="hero"
+                            width="300px"
+                            padding-top="1rem"
                         />
 
                         <div className='banner-text'>

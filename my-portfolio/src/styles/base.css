@@ -1,0 +1,219 @@
+/*
+
+TABLE OF CONTENTS
+
+  1. Global styles
+  2. Hero
+  3. Navigation
+  4. Resume
+  5. Portfolio
+  6. Gallery
+  7. Footer
+    7a. Contact
+    7b. Connect
+  8. Media Queries
+    8a. Media Query, (min-width: 700px)
+      8a-i. Hero
+      8a-ii. Navigation, Large screen
+      8a-iii. Resume, Large screen
+      8a-iv. Portfolio summaries, Large screen rules
+      8a-v. Footer
+    8b. Media Query, (min-width: 1000px)
+
+*/
+
+
+
+/* ############ 1. Global styles ############ */
+
+
+
+
+
+
+
+
+/* ############ 2. Hero         ############ */
+
+.hero {
+    background: url("../images/header1_sm.jpg") no-repeat center right;
+    background-size: cover;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 10px 2fr 10px;
+    grid-template-rows: .5fr 1fr 20px;
+    grid-gap: 20px;
+   }
+
+
+
+
+
+
+
+/* ############ 3. Navigation   ############ */
+
+
+
+
+
+
+
+/* ############ 4. Resume ############ */
+
+
+
+
+
+
+
+
+
+
+/* ############ 5. Portfolio ############ */
+
+
+
+
+
+
+
+/* ############ 6. Gallery ############ */
+
+
+
+
+
+
+
+/* ############ 7. Footer ############ */
+
+
+
+
+
+
+
+
+/* ############ 7a. Contact ############ */
+
+
+
+
+
+
+
+
+
+/* ############ 7b. Connect ############ */
+
+
+
+
+
+
+
+
+
+
+/* ############ 8. Media Queries ############ */
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a. Media Query, (min-width: 700px) ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a-i. Hero ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a-ii. Navigation, Large screen ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a-iii. Resume, Large screen ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a-iv. Portfolio summaries, Large screen rules ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8a-v. Footer ############ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############ 8b. Media Query, (min-width: 1000px) ############ */
+
+
+
